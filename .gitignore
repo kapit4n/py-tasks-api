@@ -2,6 +2,7 @@
 ### Django ###
 *.log
 *.pot
+.vscode
 *.pyc
 __pycache__/
 local_settings.py
